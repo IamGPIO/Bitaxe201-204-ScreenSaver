@@ -1,6 +1,6 @@
-<div>
-  <img src="https://github.com/IamGPIO/ImageHost/blob/main/Color logo - no background.png?raw=true" alt="The Solo Mining Co" style="width: 60%; vertical-align: middle; display: inline-block;"/>
-  <span style="display: inline-block; vertical-align: middle; font-size: 20px;">www.thesolomining.co</span>
+<div align="center">
+  <img src="https://github.com/IamGPIO/ImageHost/blob/main/Color logo - no background.png?raw=true" alt="The Solo Mining Co" style="width: 60%;"/>
+  <div style="text-indent: 20ch;">www.thesolomining.co</div>
 </div>
 
 ***
