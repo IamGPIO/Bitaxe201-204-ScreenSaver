@@ -8,6 +8,8 @@
 <div align="center">
   Screen Spacer / Retainer / Support for The Bitaxe Ultra 201-204 Series.<br>
   Print with 100% Infill.
+  <br>
+  Another thing made for the Bitaxe by IamGPIO of The Solo Mining Co'.
 <br><br>
   3d Files found in the "3dFiles" folder above.
 </div>
