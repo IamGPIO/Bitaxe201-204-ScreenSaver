@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/IamGPIO/ImageHost/blob/main/Color logo - no background.png?raw=true" alt="The Solo Mining Co" style="width: 60%;"/>
+  <img src="https://github.com/IamGPIO/ImageHost/blob/main/Universal.png?raw=true" alt="The Solo Mining Co" style="width: 60%;"/>
   <div style="text-indent: 10ch;">www.thesolomining.co</div>
 </div>
 
