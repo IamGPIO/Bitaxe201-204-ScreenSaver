@@ -4,6 +4,7 @@
 </div>
 
 <div align="center">
+  *
   Screen Spacer / Retainer / Support for The Bitaxe Ultra 201-204 Series.<br>
   Print with 100% Infill.
 </div>
