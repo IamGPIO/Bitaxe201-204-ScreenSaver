@@ -2,7 +2,7 @@
   <img src="https://github.com/IamGPIO/ImageHost/blob/main/Universal.png?raw=true" alt="The Solo Mining Co" style="width: 60%;"/>
   <div style="text-indent: 10ch;">www.thesolomining.co</div>
   
-  The "Bitaxe Ultra 201-204 ScreenSaver" by IamGPIO of The Solo Mining Co'
+  The "Bitaxe Ultra 201-204 ScreenSaver" by IAmGPIO of The Solo Mining Co'
 </div>
 
   ***
