@@ -3,8 +3,9 @@
   <div style="text-indent: 10ch;">www.thesolomining.co</div>
 </div>
 
-<div align="center">
   ***
+  
+<div align="center">
   Screen Spacer / Retainer / Support for The Bitaxe Ultra 201-204 Series.<br>
   Print with 100% Infill.
 </div>
