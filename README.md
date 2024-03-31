@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/IamGPIO/ImageHost/blob/main/Color logo - no background.png?raw=true" alt="The Solo Mining Co" style="width: 60%;"/>
-  <div style="text-indent: 20ch;">www.thesolomining.co</div>
+  <div style="text-indent: 10ch;">www.thesolomining.co</div>
 </div>
 
 ***
